@@ -1,0 +1,14 @@
+SubStep Name;Complete Time;Interacting Time
+Prüfe, ob das Fahrzeug gebremst ist.;34729,726
+Prüfe, ob das Fahrzeug gebremst ist.;null;10561,531
+Ziehe die Feststellbremse an.;12851,492
+Ziehe die Feststellbremse an.;null;6014,904
+Ziehe die Druckluftbremse an.;11025,971
+Ziehe die Druckluftbremse an.;null;1652,867
+Prüfe, ob das Fahrzeug nun angebremst ist.;16040,137
+Prüfe, ob das Fahrzeug nun angebremst ist.;null;6372,805
+Signalisiere der Lok, dass sie anfahren darf.;null;341,926
+Signalisiere der Lok, dass sie anfahren darf.;0,324
+Warte auf die Lok;18054,273
+Kupple den vordersten Wagen an die Lok.;28877,992
+Kupple den vordersten Wagen an die Lok.;null;10805,349
